@@ -1,0 +1,18 @@
+{
+    "name": "peacehack/natakallam",
+    "description": "Natakallam",
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "authors": [
+        {
+            "name": "Saeid Al-Wazzan",
+            "email": "saeid.wazzan@nonsingular.net"
+        },
+        {
+            "name": "Joe Sokhn",
+            "email": "joe.sokhn@gmail.com"
+        }
+    ],
+    "require": { }
+}
